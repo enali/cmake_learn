@@ -1,0 +1,19 @@
+Start testing: Jan 21 11:32 CST
+----------------------------------------------------------
+1/1 Testing: mytest
+1/1 Test: mytest
+Command: "/home/artrobot/backup/cmake/t4/build/src/main"
+Directory: /home/artrobot/backup/cmake/t4/build
+"mytest" start time: Jan 21 11:32 CST
+Output:
+----------------------------------------------------------
+hello, world
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"mytest" end time: Jan 21 11:32 CST
+"mytest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 21 11:32 CST

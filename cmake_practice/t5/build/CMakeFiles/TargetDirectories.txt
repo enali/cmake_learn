@@ -1,0 +1,1 @@
+/home/artrobot/backup/cmake/t5/build/src/CMakeFiles/curltest.dir

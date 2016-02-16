@@ -1,0 +1,1 @@
+/home/artrobot/backup/cmake/t1/build/CMakeFiles/hello.dir

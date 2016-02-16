@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/artrobot/backup/cmake/t4/src/main.cc
+hello.hpp
+-
+
+/usr/local/include/hello/hello.hpp
+iostream
+-
+

@@ -1,0 +1,2 @@
+/home/artrobot/backup/cmake/t3/build/lib/CMakeFiles/hello.dir
+/home/artrobot/backup/cmake/t3/build/lib/CMakeFiles/hello_static.dir

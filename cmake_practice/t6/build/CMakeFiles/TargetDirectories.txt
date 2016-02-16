@@ -1,0 +1,1 @@
+/home/artrobot/backup/cmake/t6/build/src/CMakeFiles/main.dir

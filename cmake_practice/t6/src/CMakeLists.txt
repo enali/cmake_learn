@@ -1,0 +1,7 @@
+find_package (HELLO)
+if (HELLO_FOUND)
+  message (STATUS "FOUND HELLO")
+  add_executable (main main.cc)
+  include_directories (${HELLO_INCLUDE_DIR})
+  target_link_libraries (main ${HELLO_LIBRARY})
+endif (HELLO_FOUND)
